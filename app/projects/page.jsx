@@ -6,7 +6,7 @@ import ProjectCard from '@/components/ProjectCard'
 const ProjectData = [
   {
     image: "/food_delivery.png",
-    category: "React",
+    category: "Full-stack",
     name: "Food delivery website",
     description:
       "Its a full stack fully responsive food delivery website built using MERN stack and Mongo DB and Tailwind for styling. It requires authentication which is done using Bcrypt Js and json web-token.",
@@ -15,7 +15,7 @@ const ProjectData = [
   },
   {
     image: "/portfolio.png",
-    category: "Next js",
+    category: "Frontend",
     name: "portfolio website",
     description:
       "Its my portfolio website which is built using Nextjs, Tailwind and Shancn UI components. It also animation for which i used framer motion and i used Emailjs api to send emails.",
@@ -24,7 +24,7 @@ const ProjectData = [
   },
   {
     image: "/notes_manager.png",
-    category: "react",
+    category: "Full-stack",
     name: "Notes Manager",
     description:
       "Its a MERN stack notes manager website which is using Mongo DB and Bootstrap. It shows the notes of only the user who has logged in currently.Its using Bcrypt Js and json web-token.",
@@ -33,7 +33,7 @@ const ProjectData = [
   },
   {
     image: "/restoran.png",
-    category: "Vanilla",
+    category: "Frontend",
     name: "Restaurant website",
     description:
       "Its a clone of a website named Restoran which is a website for a restaurant which tells about the products and about the restaurant . Its built using HTML, Tailwind and Javascript.",
